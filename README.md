@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Todor</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
-- 📝 I tend to write articles on [https://tagrudev.com](https://tagrudev.com), mostly about my development experience and the projects that I am currently wokring on
+- 📝 I tend to write articles on [https://tagrudev.com](https://tagrudev.com), mostly about my development experience and the projects that I am currently working on
 - 🔭 I have been developing Ruby on Rails application for the past 12 years, have several big projects behind my back and worked on a lot of startups
 - 🌱 I am currently trying to level up my Kotlin skills mainly in the Android world
 
