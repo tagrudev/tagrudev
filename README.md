@@ -3,7 +3,8 @@
 
 - 📝 I tend to write articles on [https://tagrudev.com](https://tagrudev.com), mostly about my development experience and the projects that I am currently working on
 - 🔭 I have been developing Ruby on Rails application for the past 12 years, have several big projects behind my back and worked on a lot of startups
-- 🌱 I am currently trying to level up my Kotlin skills mainly in the Android world
+- 🤖 I am currently working as an Android developer, mainly focusing on Kotlin and Compose
+- 🐤 My recent passion is learning React and TypeScript, I've been focusing on that for several months now. I have experience with GraphQL and am working on a side project that is using those three as a stack.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
